@@ -1,0 +1,6 @@
+[submodule "datasharing"]
+	path = datasharing
+	url = https://github.com/carlodicelico/datasharing.git
+[submodule "ExData_Plotting1"]
+	path = ExData_Plotting1
+	url = https://github.com/carlodicelico/ExData_Plotting1.git
