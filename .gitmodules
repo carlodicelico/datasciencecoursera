@@ -4,3 +4,6 @@
 [submodule "ExData_Plotting1"]
 	path = ExData_Plotting1
 	url = https://github.com/carlodicelico/ExData_Plotting1.git
+[submodule "DataScienceSpCourseNotes"]
+	path = DataScienceSpCourseNotes
+	url = https://github.com/sux13/DataScienceSpCourseNotes.git
